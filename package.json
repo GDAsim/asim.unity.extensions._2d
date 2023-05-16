@@ -1,0 +1,26 @@
+{
+  "name": "asim.unity.extensions._2d",
+  "version": "0.2.0",
+  "displayName": "Asim Unity Extensions 2D",
+  "description": "Asim Unity Extensions 2D",
+  "unity": "2020.3",
+  "unityRelease": "26f1",
+  "keywords": [
+    "asim",
+    "unity",
+    "extension",
+    "extensions",
+    "2d"
+  ],
+  "type": "library",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDAsim/asim.unity.extensions._2d.git"
+  },
+  "author": "GDAsim <gamedevelopementasim@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GDAsim/asim.unity.extensions._2d/issues"
+  },
+  "homepage": "https://github.com/GDAsim/asim.unity.extensions._2d#readme"
+}
