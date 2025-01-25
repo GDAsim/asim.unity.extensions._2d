@@ -1,6 +1,6 @@
 {
   "name": "asim.unity.extensions._2d",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "displayName": "Asim Unity Extensions 2D",
   "description": "Asim Unity Extensions 2D",
   "unity": "2020.3",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/GDAsim/asim.unity.extensions._2d/issues"
   },
-  "homepage": "https://github.com/GDAsim/asim.unity.extensions._2d#readme"
+  "homepage": "https://github.com/GDAsim/asim.unity.extensions._2d#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
